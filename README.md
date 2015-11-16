@@ -19,3 +19,15 @@ I choose python to make ANOVA with 15 categorical levels Analysis and moderator 
 
 ![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img1.png) 
 
+###Results
+
+![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img2.png)
+
+![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img3.png)
+
+![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img4.png)
+
+![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img5.png)
+
+![alt tag](https://github.com/marlonsvl/project4_DataAnalysisTools/blob/master/images/img6.png)
+
