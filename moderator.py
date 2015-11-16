@@ -29,6 +29,14 @@ sub2 = sub1[['S2BQ3B', 'S1Q9B']].dropna()
 model1 = smf.ols(formula='S2BQ3B ~ C(S1Q9B)', data=sub2).fit()
 print (model1.summary())
 
+
+
+mc1 = multi.MultiComparison(sub2['S2BQ3B'], sub2['S1Q9B'])
+res1 = mc1.tukeyhsd()
+print(res1.summary())
+
+
+
 sub3 = data[['S2BQ3B', 'S1Q9B']].dropna()
 
 print ("means for S2BQ3B by S1Q9B A vs. B")
